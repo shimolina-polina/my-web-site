@@ -1,0 +1,108 @@
+/* Задаем стили для body */
+body {
+  position: relative;
+  width: 1260px;
+  height: 945px;
+  background-color: #0E3150;
+  cursor: url(sc.png) 2 2, default;
+}
+
+/* Задаем стили для заголовков */
+h1{
+  position: absolute;
+  width: 726px;
+  height: 134px;
+  left: 301px;
+  top: 130px;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 840;
+  font-size: 55px;
+  line-height: 67px;
+  color: #F7E9E3;
+}
+
+.pink {
+color: #FFC0C2;}
+
+.blue {
+color: #6DC9C8;}
+
+h2{
+  position: absolute;
+  width: 726px;
+  height: 24px;
+  left: 301px;
+  top: 285px;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  color: #F7E9E3;
+}
+
+h3{
+  position: absolute;
+  width: 726px;
+  height: 30px;
+  left: 301px;
+  top: 362px;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 675;
+  font-size: 25px;
+  line-height: 30px;
+  color: #F7E9E3;
+}
+
+#box1 {
+  position: absolute;
+  width: 658px;
+  height: 418px;
+  left: 301px;
+  top: 483px;
+  border-radius: 47px;
+  background-color:#123759; }
+
+#box2 {
+  position: absolute;
+  width: 296px;
+  height: 297px;
+  left: 334px;
+  top: 544px;
+  border-radius: 47px; }
+
+#text1 {
+  position: absolute;
+  width: 58px;
+  height: 20px;
+  left: 288px;
+  top: 673px;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 354;
+  font-size: 16px;
+  line-height: 20px;
+  color: #F7E9E3;
+  transform: rotate(-90deg);
+}
+
+#text2 {
+  position: absolute;
+  width: 275px;
+  height: 261px;
+  left: 668px;
+  top: 604px;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 40px;
+  line-height: 49px;
+  color: #F7E9E3;
+  text-decoration: none; 
+}
+
+#text2:hover {
+  color: #FFC0C2;
+}
