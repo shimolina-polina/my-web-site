@@ -1,4 +1,4 @@
-# my-web-site
+# my-web-site-dima-edition
 
 trying to create my own website with info about my projects
 
